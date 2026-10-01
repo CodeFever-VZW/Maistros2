@@ -18,5 +18,5 @@ scipy==1.15.1
 six==1.17.0
 stack-data==0.6.3
 threadpoolctl==3.5.0
-typing_extensions==4.12.2
+typing_extensions>=4.13.0
 wcwidth==0.2.13
